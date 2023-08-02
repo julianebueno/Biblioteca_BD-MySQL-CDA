@@ -48,6 +48,8 @@ INSERT INTO autor (id, nome, sobre, nascimento, falescimento, pais_origem, regis
 
 ## 📊 Resultado
 
-Aqui, ainda será inserida algumas imagens das tabelas preenchidas...
+Exemplo da tabela autor já com alguns registro:
+
+![Tabela](./model/tabela_autor.png)
 
 ---
